@@ -4,7 +4,7 @@
         <title>Vac Research Blog</title>
         <link>https://vac.dev/rlog</link>
         <description>Vac Research Blog</description>
-        <lastBuildDate>Sat, 20 Apr 2024 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Verifying RLN Proofs in Light Clients with Subtrees]]></title>
             <link>https://vac.dev/rlog/rln-light-verifiers</link>
             <guid>https://vac.dev/rlog/rln-light-verifiers</guid>
-            <pubDate>Sat, 20 Apr 2024 12:00:00 GMT</pubDate>
+            <pubDate>Fri, 03 May 2024 12:00:00 GMT</pubDate>
             <description><![CDATA[How resource-restricted devices can verify RLN proofs fast and efficiently.]]></description>
             <content:encoded><![CDATA[<p>How resource-restricted devices can verify RLN proofs fast and efficiently.</p><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>Recommended previous reading: <a href="https://vac.dev/rlog/rln-anonymous-dos-prevention" target="_blank" rel="noopener noreferrer">Strengthening Anonymous DoS Prevention with Rate Limiting Nullifiers in Waku</a>.</p><p>This post expands upon ideas described in the previous post,
 focusing on how resource-restricted devices can verify RLN proofs fast and efficiently.</p><p>Previously, it was required to fetch all the memberships from the smart contract,
